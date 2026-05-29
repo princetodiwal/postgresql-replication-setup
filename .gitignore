@@ -1,0 +1,44 @@
+# PostgreSQL-specific
+pg_log/
+pg_xlog/
+pg_wal/
+base/
+global/
+pg_hba.conf.bak
+postgresql.conf.bak
+recovery.conf.bak
+*.pid
+standby.signal
+recovery.signal
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+
+# Build/compilation
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Backup files
+*.bak
+*.backup
+*.tmp
+*~
+
+# Logs
+*.log
