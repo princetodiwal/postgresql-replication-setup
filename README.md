@@ -32,4 +32,4 @@ Add your preferred license here
 
 ## Author
 
-Your Name
+Prince Todiwal
